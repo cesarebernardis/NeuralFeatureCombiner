@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+scikit-learn==0.22
+pandas
+cython
+nltk
+h5py
+scikit-optimize
+seaborn

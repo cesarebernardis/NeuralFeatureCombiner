@@ -1,0 +1,47 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 3 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+================================================================================
+Input tree: 'tensorflow/'
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'tensorflow/methods.py'
+ outputting to 'tensorflow/methods.py'
+--------------------------------------------------------------------------------
+
+76:17: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+208:15: INFO: Added keywords to args of function 'tf.gradients'
+246:15: INFO: Added keywords to args of function 'tf.gradients'
+262:35: INFO: Added keywords to args of function 'tf.gradients'
+275:12: INFO: Added keywords to args of function 'tf.gradients'
+328:12: INFO: Added keywords to args of function 'tf.gradients'
+336:32: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+355:12: INFO: Added keywords to args of function 'tf.gradients'
+368:15: INFO: Renamed 'tf.where' to 'tf.compat.v1.where'
+376:12: INFO: Renamed 'tf.get_default_graph' to 'tf.compat.v1.get_default_graph'
+559:43: INFO: Renamed 'tf.get_default_session' to 'tf.compat.v1.get_default_session'
+638:12: INFO: Renamed 'tf.get_default_graph' to 'tf.compat.v1.get_default_graph'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'tensorflow/utils.py'
+ outputting to 'tensorflow/utils.py'
+--------------------------------------------------------------------------------
+
+69:11: INFO: Renamed 'tf.placeholder' to 'tf.compat.v1.placeholder'
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Processing file 'tensorflow/__init__.py'
+ outputting to 'tensorflow/__init__.py'
+--------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+
