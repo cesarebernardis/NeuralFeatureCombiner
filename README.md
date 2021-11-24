@@ -5,7 +5,7 @@ Ph.D. candidate at Politecnico di Milano, and it is based on the recommendation 
 The code allows reproducing the results of "NFC: a Deep and Hybrid Item-based Model for Item Cold-Start Recommendation", 
 published on the UMUAI Special Issue on Dynamic Recommender Systems and User Models.
 
-Please cite our article (coming soon!) if you use this repository or a part of it in your work.
+Please cite our [article](https://link.springer.com/article/10.1007/s11257-021-09303-w) if you use this repository or a part of it in your work.
 
 
 ## Installation
